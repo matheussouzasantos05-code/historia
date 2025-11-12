@@ -31,3 +31,11 @@ h1 {
 p {
     font-size: 20px;
 }
+
+img{
+    height:20px;
+.categoria-videos
+display flex  ;
+overflow-x:  auto;
+gap : 10px;
+}
